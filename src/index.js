@@ -51,7 +51,7 @@ class App extends Component {
 
   render() {
     {
-      /* Object destructing for all state and functions */
+      /* Object destructing for all of the state and functions */
     }
     const { addTodo, listOfTexts } = this.state;
     const {
